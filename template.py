@@ -18,7 +18,7 @@ list_of_files = [
     f"src/{project_name}/constants/__init__.py",
     "config/congif.yaml",
     "dvc.yaml",
-    "params.yaml"
+    "params.yaml",
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb"
